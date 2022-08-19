@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/nina-kumagai/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-<h2 align='center'> I'm a data scientist 💻 </h2>
+<p align='left'>
+<h3 align='left'> I'm a data scientist 💻 </h3>
 - 🔭 I’m currently working at Swinburne University of Technology, to help the university get to net-zero by 2025
 - 🌱 I’m currently trying to learn ways to get the most value and impact from data
 - 💬 Ask me about product analytics and sustainability
@@ -24,15 +24,10 @@
 <h4>🔭  I’m proficient with ...</h4>
 <p >
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;<img
-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;<img
 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;<img
 src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;<img
 src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />&nbsp;&nbsp;<img
-
-
-
 </p>
-
 
 <hr>
 
