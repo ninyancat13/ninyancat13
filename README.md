@@ -36,8 +36,4 @@ src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vi
 </p>
 
 <h4> GitHub Stats </h4>
-<p >
-[![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninyancat13)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninyancat13&theme=tokyonight&show_icons=true" alt="kalavhan" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ninyancat13&theme=tokyonight&show_icons=true" alt="kalavhan" /></p>
