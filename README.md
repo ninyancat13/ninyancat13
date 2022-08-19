@@ -15,7 +15,7 @@
 <h4 align='left'> 🌱 I’m currently trying to learn ways to get the most value and impact from data </h4>
 <h4 align='left'> 💬 Ask me about product analytics and sustainability </h4>
 <h4 align='left'> 😄 Pronouns: she/her </h4>
-<h4 align='left'> ⚡ Fun fact: I love playing board games, eating tacos and learning new things! </h4>
+<h4 align='left'> ⚡ Fun fact: I ❤️ 🐶 </h4>
 </p>
 
 <hr>
