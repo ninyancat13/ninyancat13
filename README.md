@@ -36,4 +36,4 @@ src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vi
 </p>
 
 <h4> GitHub Stats </h4>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ninyancat13&theme=tokyonight&show_icons=true" alt="ninyancat13" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ninyancat13&theme=tokyonight&show_icons=true&hide=contribs,prs,issues" alt="ninyancat13" /></p>
