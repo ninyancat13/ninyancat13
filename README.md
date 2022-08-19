@@ -36,6 +36,6 @@ src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vi
 
 <h4>🌱  I'm currently learning...</h4>
 <p >
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;<img 
 </p>
 
