@@ -6,6 +6,9 @@
   
 <p align='center'>
   <a href="https://www.linkedin.com/in/nina-kumagai/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/ninyancat13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&log
+oColor=white"/></a>&nbsp;
+  
 </p>
 
 <p align='left'>
