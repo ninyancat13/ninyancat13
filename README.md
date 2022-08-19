@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Nina  👩‍💻 </h1>
+<h1 align='center'> Hi there  👋  I'm Nina  👩‍💻 </h1>
 
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
