@@ -20,7 +20,7 @@
 
 <hr>
 
-<h4>🔭  I’m proficient with ...</h4>
+<h4>🔭  Languages and Tools </h4>
 <p >
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;<img
 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;<img
@@ -38,4 +38,7 @@ src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vi
 <p >
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;<img 
 </p>
+
+<h4> GitHub Stats </h4>
+![Nina's github stats](https://github-readme-stats.vercel.app/api?username=ninyancat13&show_icons=true&theme=radical)
 
