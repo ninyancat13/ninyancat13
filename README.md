@@ -28,7 +28,9 @@ src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&lo
 src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />&nbsp;&nbsp;<img
 src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;&nbsp;<img                                 src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />&nbsp;&nbsp;<img     
 src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />&nbsp;&nbsp;<img  
-src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp;&nbsp;<img                       </p>
+src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp;&nbsp;<img
+src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />&nbsp;&nbsp;<img
+</p>
 
 <hr>
 
