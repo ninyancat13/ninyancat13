@@ -33,9 +33,10 @@ src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&
 
 <hr>
 
-<h3>🌱  I'm currently learning... </h3>
+<h3>🌱  I'm currently working on... </h3>
 <p >
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;<img 
+- Upskilling data manipulation techniques in Python
+- 
 </p>
 
 <h3> GitHub Stats </h3>
