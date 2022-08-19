@@ -15,13 +15,15 @@
 
 </p>
 
+<p align='center'>
 <h2 align='center'> I'm a data scientist 💻 </h2>
 - 🔭 I’m currently working at Swinburne University of Technology, to help the university get to net-zero by 2025
 - 🌱 I’m currently trying to learn ways to get the most value and impact from data
 - 💬 Ask me about product analytics and sustainability
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love playing board games, eating tacos and learning new things!
--->
+
+</p>
 
 <hr>
 
