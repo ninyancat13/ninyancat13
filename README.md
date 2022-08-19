@@ -33,11 +33,5 @@ src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&
 
 <hr>
 
-<h3>🌱  I'm currently working on... </h3>
-<p >
-- Upskilling data manipulation techniques in Python
-- 
-</p>
-
 <h3> GitHub Stats </h3>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ninyancat13&theme=tokyonight&show_icons=true&hide=contribs,prs,issues" alt="ninyancat13" /></p>
