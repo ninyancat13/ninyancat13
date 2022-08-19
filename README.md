@@ -34,10 +34,12 @@ src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vi
 
 <hr>
 
-<h4>🌱  I'm currently learning...</h4>
+<h4>🌱  I'm currently learning... </h4>
 <p >
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;<img 
 </p>
 
 <h4> GitHub Stats </h4>
+<p >
 [![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninyancat13)](https://github.com/anuraghazra/github-readme-stats)
+</p>
