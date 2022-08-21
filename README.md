@@ -6,7 +6,7 @@
 </p>
 
 <p align='left'>
-<h3 align='left'> I'm a data scientist </h3>
+<h3 align='left'>💻 I'm a data scientist </h3>
 <h4 align='left'> 🔭 I’m currently working at Swinburne University of Technology, to help the university get to net-zero by 2025 </h4>
 <h4 align='left'> 🌱 I’m currently trying to learn ways to get the most value and impact from data </h4>
 <h4 align='left'> 💬 Ask me about product analytics and sustainability </h4>
