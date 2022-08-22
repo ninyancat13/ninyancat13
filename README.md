@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3>🔭  Languages and Tools </h3>
+<h3> Languages and Tools </h3>
 <p >
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;<img
 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;<img
