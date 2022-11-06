@@ -6,7 +6,7 @@
 </p>
 
 <p align='left'>
-<h3 align='left'> I'm a data scientist in Australia </h3>
+<h3 align='left'> I'm a data scientist based out of Melbourne, Australia </h3>
 <h4 align='left'> 💬 Ask me about product analytics and sustainability data </h4>
 <h4 align='left'> 😄 Pronouns: she/her </h4>
 <h4 align='left'> ⚡ Fun fact: I ❤️ 🍣 </h4>
