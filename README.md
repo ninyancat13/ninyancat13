@@ -7,7 +7,7 @@
 
 <p align='left'>
 <h3 align='left'> I'm a data scientist based out of Melbourne, Australia </h3>
-<h4 align='left'> 💬 Ask me about product analytics data </h4>
+<h4 align='left'> 💬 Currently working at Canva in Melbourne, VIC </h4>
 <h4 align='left'> 💫 Pronouns: she/her </h4>
 <h4 align='left'> ⚡ Fun fact: I ❤️ 🍣 </h4>
 </p>
